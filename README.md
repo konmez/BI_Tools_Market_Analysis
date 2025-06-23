@@ -11,7 +11,8 @@
 This project analyzes the competitive landscape of business intelligence tools through a comprehensive data-driven approach, combining search trend analysis, regional market preferences, and financial performance of parent companies.
 
 ### 📊 Live Dashboard
-🔗 **[Interactive Looker Studio Dashboard](your-dashboard-link-here)**
+🔗 **[Interactive Looker Studio Dashboard]
+( https://lookerstudio.google.com/reporting/210f7121-ae8b-4742-8565-49bf1bb5e190)**
 
 *Note: Screenshots of all visualizations are available in the `/dashboard_screenshots/` folder*
 
@@ -66,36 +67,19 @@ Version Control:     Git/GitHub
 ```
 bi-tools-market-analysis/
 │
-├── 📊 data/
-│   ├── raw/
-│   │   ├── bi_tools_complete_trends_data.csv
-│   │   ├── european_bi_tools_summary.csv
-│   │   └── bi_tools_stock_prices.csv
-│   └── processed/
-│       ├── global_vs_european_comparison.csv
-│       └── dashboard_ready_data.csv
-│
-├── 📓 notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_trend_analysis.ipynb
-│   ├── 03_european_analysis.ipynb
-│   └── 04_stock_analysis.ipynb
+├── 📊 data/ csv data files
+│  
+├── 📓 bi_tools_analysis.ipynb
+│   
 │
 ├── 📊 dashboard_screenshots/
 │   ├── global_trends_overview.png
 │   ├── european_regional_analysis.png
 │   ├── stock_performance_comparison.png
-│   └── summary_insights.png
+│  
 │
-├── 📄 reports/
-│   └── BI_Tools_Market_Analysis_Report.pdf
-│
-├── 🔧 src/
-│   ├── data_collection.py
-│   ├── analysis_functions.py
-│   └── visualization_helpers.py
-│
-├── 📋 requirements.txt
+├── BI_Tools_Market_Analysis_Report.pdf   - report
+├
 └── 📖 README.md
 ```
 
@@ -113,9 +97,6 @@ bi-tools-market-analysis/
 ![Stock Performance](dashboard_screenshots/stock_performance_comparison.png)
 *Parent company financial performance vs tool popularity*
 
-### 4. Competitive Positioning
-![Market Positioning](dashboard_screenshots/summary_insights.png)
-*Comprehensive market share and growth analysis*
 
 ## 💡 Business Implications
 
@@ -158,7 +139,8 @@ pip install -r requirements.txt
 ### Step-by-Step Reproduction
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/bi-tools-market-analysis.git
+git clone https://github.com/konmez/bi-tools-market-analysis.git
+https://github.com/konmez/BI_Tools_Market_Analysis
 cd bi-tools-market-analysis
 
 # 2. Install dependencies
@@ -239,12 +221,12 @@ This analysis was completed as part of a comprehensive data science portfolio, d
 
 **Connect with me:**
 - 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 💼 LinkedIn: [www.linkedin.com/in/kon-mez-8425ab2b3](www.linkedin.com/in/kon-mez-8425ab2b3)
+- 🌐 Portfolio: [https://konmez.github.io/my_portfolio/](https://konmez.github.io/my_portfolio/)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[This project is not licensed under the MIT License - see the [LICENSE](LICENSE) file for details.]
 
 ---
 
