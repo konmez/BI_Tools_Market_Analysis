@@ -220,7 +220,7 @@ python src/run_complete_analysis.py
 This analysis was completed as part of a comprehensive data science portfolio, demonstrating end-to-end project execution from data collection through business insight generation.
 
 **Connect with me:**
-- 📧 Email: your.email@example.com
+- 📧 Email:kmezin@yahoo.com
 - 💼 LinkedIn: [www.linkedin.com/in/kon-mez-8425ab2b3](www.linkedin.com/in/kon-mez-8425ab2b3)
 - 🌐 Portfolio: [https://konmez.github.io/my_portfolio/](https://konmez.github.io/my_portfolio/)
 
